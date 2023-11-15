@@ -3,3 +3,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XRAZERGAMERX&langs_count=8)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XRAZERGAMERX&repo=Roblox-Scripts)](https://github.com/XRAZERGAMERX/Roblox-Scripts)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XRAZERGAMERX&repo=Executors)](https://github.com/XRAZERGAMERX/Executors)
