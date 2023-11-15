@@ -1,7 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XRAZERGAMERX&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XRAZERGAMERX&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XRAZERGAMERX&repo=Roblox-Scripts)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XRAZERGAMERX&langs_count=8)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XRAZERGAMERX)](https://github.com/anuraghazra/github-readme-stats)
